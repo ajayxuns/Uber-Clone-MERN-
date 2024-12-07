@@ -48,7 +48,3 @@ Feel free to contribute to this project by submitting pull requests or reporting
 ## Contact  
 For queries or collaboration, contact: [ajaybankar0106@gmail.com](mailto:ajaybankar0106@gmail.com).  
 ```
-
----
-
-Copy this content into a file named **README.md** and add it to your repository. Let me know if there’s anything else you’d like to modify! 🚀
