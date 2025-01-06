@@ -20,7 +20,7 @@ This is a MERN stack application replicating the functionality and design of Ube
 ## How to Run the Project  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/ajay-bankar07/Uber-Clone-MERN-
+   git clone https://github.com/ajayxuns/Uber-Clone-MERN-
    ```  
 2. Navigate to the project directory.  
 3. Install dependencies for both frontend and backend:  
